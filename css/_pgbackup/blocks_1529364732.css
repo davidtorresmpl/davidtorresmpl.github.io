@@ -658,11 +658,7 @@ Version: 1.0
     -o-background-size: cover;
     background-size: cover;
     background-attachment: fixed;
-    padding: 140px 0 194px;
-    margin-top: -6px;
-    margin-bottom: 16px;
-    bottom: 81px;
-    top: -138px;
+    padding: 140px 0;
 }
 
 .promo-3 h1 {
